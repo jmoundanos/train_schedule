@@ -1,0 +1,30 @@
+
+h1{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+h5{
+    font-family: 'Shanti', sans-serif; 
+}
+
+p{
+    font-family: 'Tinos', serif;
+    text-align: center;
+}
+#table{
+    border: 2px solid black;
+}
+th{
+    font-family: 'Shanti', sans-serif; 
+    font-style: italic;
+}
+td{
+    font-family: 'Tinos', serif; 
+}
+form{
+    font-family: 'Tinos', serif;
+    border: 2px solid black;
+}
+#add_train{
+    font-family: 'Shanti', sans-serif; 
+    font-style: italic;
